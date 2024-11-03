@@ -10,7 +10,7 @@ The deep learning framework used throughout the assignment is **Pytorch**. The f
 - [test.py](test.py): Contains the code for calculating BLEU scores for test sentences.
 - [tuning.py](tuning.py): Contains the code for tuning hyperparameters and calculating the best BLEU score.
 
-Link to the trained model `transformer.pt` and the best model `best_model.pt`: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/siya_puttagunta_students_iiit_ac_in/Epy6Qb-sJM5Bohw4Qa8YQIIB254Bi9SWt5VzGZEnVLm2Yg?e=eFgS5w
+Link to the trained model `transformer.pt` and the best model `best_model.pt`: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/aditya_pavani_students_iiit_ac_in/Epy6Qb-sJM5Bohw4Qa8YQIIB254Bi9SWt5VzGZEnVLm2Yg?e=eFgS5w
 
 ### Training
 To train the model, run the following command:
